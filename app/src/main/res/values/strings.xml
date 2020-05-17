@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fotag</string>
+    <string name="send">SEND</string>
+    <string name="pic_rate">Pic Rate</string>
+    <string name="img">img</string>
+    <string name="search">Search</string>
+    <string name="user">User</string>
+</resources>
